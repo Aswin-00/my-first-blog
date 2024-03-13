@@ -1,0 +1,89 @@
+commit aa52e43d71ac55e12c52ca6f4973ed198bd6d975
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Tue Mar 12 09:56:51 2024 +0530
+
+    ok_
+
+commit 17e05ec32008438f53dee2e80dfb30e7a808306a
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Mar 11 19:41:13 2024 +0530
+
+    uptoall
+
+commit c6cd222941396845a3a85e50a4a0dcb92fc57c27
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Mar 11 19:37:14 2024 +0530
+
+    uptoall
+
+commit c15c157efcff81119cbc164b7270701cb6396a3b
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Mar 4 17:49:55 2024 +0530
+
+    ok,hd
+
+commit 87de50cd1297a08e8fdf375d4d73db6f0a5e33e1
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Mar 4 17:47:17 2024 +0530
+
+    ok,hk
+
+commit 863d8f9f4a295586494bc0a3abdcf707d4f08504
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Mar 4 17:30:25 2024 +0530
+
+    openshift,deplot
+
+commit 273e5abfba7b8ffd6e5739321b935e416c87a13f
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Feb 26 13:15:30 2024 +0530
+
+    add content, add content
+
+commit 044e2e076db249eefa411ac0aed806eb5e134e1c
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Feb 26 12:47:17 2024 +0530
+
+    view ,update
+
+commit dcafee9828ed44f30a43f061adb5974581f36abc
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Feb 26 12:26:36 2024 +0530
+
+    adminchang, STATIC_ROOT = os.path.join(BASE_DIR, "static")
+
+commit 52bead8a67b035fcc0b08393804b307cf2a31bf6
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Feb 26 12:12:53 2024 +0530
+
+    adminchang, static file not loading change
+
+commit 44776e8000e2db963d922a3ff0ab0776d5fa1636
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Mon Feb 26 11:12:09 2024 +0530
+
+    update done
+
+commit 9608e1beb06442b489aabdd40af4b08e90ee3301
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Wed Feb 21 21:53:24 2024 +0530
+
+    upadate, ook
+
+commit 05553b139900c7d0214bbbb3ab53810ecf87da18
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Wed Feb 21 21:33:29 2024 +0530
+
+    upadte , ok
+
+commit 6a21ea3b0b483d5667843f7db5d51b819d9e2c4a
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Wed Feb 21 21:30:01 2024 +0530
+
+    My django, second
+
+commit d99576e2aba5ea1dc55b57526a355ecfacceb1df
+Author: Aswin-00 <aswingirish25@gmail.com>
+Date:   Wed Feb 21 15:22:59 2024 +0530
+
+    My django, first commit
