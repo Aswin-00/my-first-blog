@@ -42,6 +42,7 @@ def post_edit(request, pk):
             post = form.save(commit=False)
             post.author = request.user
             post.save()
+            print('ok')
             return redirect('post_detail', pk=post.pk)
     else:
         form = PostForm(instance=post)
