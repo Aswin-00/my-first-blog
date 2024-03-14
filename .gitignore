@@ -31,6 +31,8 @@ $RECYCLE.BIN/
 .history/
 *.code-workspace
 
+./commit.txt
+
 #$ pa_autoconfigure_django.py --python=3.8 https://github.com/Aswin-00/my-first-blog.git
 #git remote add origin https://github.com/Aswin-00/my-first-blog.git
 #pa_autoconfigure_django.py https://github.com/Aswin-00/my-first-blog.git --domain=usersdomain.pythonanywhere.com --python=3.8 --nuke
