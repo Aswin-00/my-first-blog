@@ -25,5 +25,6 @@ urlpatterns = [
 
     path('accounts/login/', views.LoginView.as_view(), name='login'),
     path('', include('blog.urls')),
+    path('', include('pwa.urls')),
 
 ]
